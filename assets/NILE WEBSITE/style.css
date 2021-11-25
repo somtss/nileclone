@@ -1,0 +1,53 @@
+*{
+    font-family: Gilda display, San-serif;
+}
+.background-img-1{
+    background-image: url('../NILE\ WEBSITE/');
+}
+.btn0{
+    border: 1px solid grey;
+    border-radius: 30px;
+    width: 150px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+}
+section-8{
+    background-color: red;
+}
+h5.notice{
+    margin-bottom:746px;
+   background-color:  #1e4da1;
+}
+.btn-1{
+    background-color: #1e4da1;
+    border: 1px solid #1e4da1;
+    font-family: sans-serif;
+    font-size: 12px;
+    width: 130px;
+    height: 35px;
+}
+.btn-2{
+    background-color: #1e4da1;
+    border: 1px solid #1e4da1;
+    font-size:xx-small;
+    border-radius: 40px;
+    color: rgb(227, 225, 225);
+    font-family: sans-serif;
+}
+.container-fluid{
+    width: 90%;
+}
+#carouselExampleIndicators{
+    width: 90;
+}
+a.nav-link{
+    color: #1e4da1!important;
+}
+.slide{
+    overflow-x: hidden;
+}
+.slide-img{
+    
+}
